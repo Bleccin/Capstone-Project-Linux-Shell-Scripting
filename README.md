@@ -17,6 +17,11 @@ l. Added a final else statement for the main if statement to cater for when the 
 m. Used a While loop to loop through 1 to 10 and print the full multiplication table.
 n. Closed the if statement with 'fi'
 
+Testing the script
+a. I tested the full table by selecting a number and f. The result was that the full multiplication table of the selected number was displayed.
+b. I tested the partial table by selecting a number and p, selecting a starting and ending number. The result was that the partial multiplication table was displayed.
+c. I tested Invalid range by selecting a number and p, selecting a starting number and ending number out of range. The result was that an invalid range was displayed and a full multiplication table of the selected number was displayed.
+
 Below is the final code and comments:
 #!/bin/bash
 
